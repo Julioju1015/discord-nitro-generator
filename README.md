@@ -1,2 +1,4 @@
 # discord-nitro-generator
-fff
+
+
+lancer le bot en lancement le start.bat 
